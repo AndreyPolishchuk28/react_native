@@ -62,7 +62,7 @@ export const globalStyles = StyleSheet.create({
 
   textInput:{
     fontSize: 18,
-    marginTop: 100,
+    marginTop: 60,
     marginBottom: 110,
     width: 337,
     borderBottomColor: '#EEEEEE',
@@ -71,17 +71,6 @@ export const globalStyles = StyleSheet.create({
     color: '#EEEEEE',
     paddingBottom: 10,
   },
-
-  // test:{
-  //   fontSize: 18,
-  //   marginTop: 40,
-  //   marginBottom: 110,
-  //   width: 337,
-  //   borderBottomColor: '#fff',
-  //   borderBottomWidth: 1,
-  //   textAlign: 'center',
-  //   color: '#fff'
-  // },
 
   nameWrapper:{
     display: 'flex',
@@ -98,13 +87,13 @@ export const globalStyles = StyleSheet.create({
     borderBottomWidth: 1,
     textAlign: 'center',
     color: '#EEEEEE',
-    paddingBottom: 10,
+    paddingBottom: 5,
   },
 
   numberDateInput:{
     fontSize: 18,
     width: '100%',
-    paddingBottom: 20,
+    paddingBottom: 10,
     borderBottomColor: '#EEEEEE',
     borderBottomWidth: 1,
     textAlign: 'center',
@@ -134,7 +123,7 @@ export const globalStyles = StyleSheet.create({
     borderRadius: 50,
     alignItems: 'center',
     justifyContent: 'center',
-    marginTop: 135,
+    marginTop: "5%",
   },
 
   textBtn:{
